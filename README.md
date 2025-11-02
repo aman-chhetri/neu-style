@@ -18,8 +18,11 @@ The Basic concept is simple:
 * While the second loss describes the distance in style between the style image and the style of the input image.
 
 ---
-Want to try out the `app version` of this paper? Check out this repo here: [NeuraCanvas](https://github.com/aman-chhetri/NeuraCanvas)
+> [!NOTE]  
+> Want to try out the `app version` of this paper? Check out here: [NeuraCanvas](https://github.com/aman-chhetri/NeuraCanvas)
 
+
+---
 ## Theory of the Concept (paper):
 
 **`Losses`:** The complete loss is a combination of the content and style losses: simply put, we try to minimize the jointly losses on the target image:
