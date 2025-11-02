@@ -17,6 +17,8 @@ The Basic concept is simple:
 * The first loss describes the distance in content between the content image and the target image.
 * While the second loss describes the distance in style between the style image and the style of the input image.
 
+---
+Want to try out the `app version` of this paper? Check out this repo here: [NeuraCanvas](https://github.com/aman-chhetri/NeuraCanvas)
 
 ## Theory of the Concept (paper):
 
